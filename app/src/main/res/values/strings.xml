@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe Finder</string>
+    <string name="recipie_url">Recipe URL</string>
+    <string name="recipieIngredients_hint">Type available ingredients.....(What items you have ??)</string>
+    <string name="recipieItem_hint">Search Recipe for ........</string>
+    <string name="recipieItem">Search by Recipe Item:</string>
+    <string name="recipieIngredients">Search by Recipe Ingredients:</string>
+    <string name="recipieTitle">Search for Recipes</string>
+</resources>
